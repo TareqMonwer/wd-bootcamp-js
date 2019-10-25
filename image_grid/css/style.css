@@ -1,0 +1,20 @@
+.monkaibg {
+    background: #34495e;
+}
+
+.light-monkaibg {
+    background: #95a5a6;
+}
+
+a {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+a.nav-link {
+    font-size: 16px !important;
+}
+
+#gallery div {
+    margin-bottom: 15px;
+}

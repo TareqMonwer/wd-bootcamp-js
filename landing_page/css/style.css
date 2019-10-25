@@ -1,0 +1,25 @@
+.active {
+    background: #e74c3c;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+#inner-container {
+    padding-top: 23%;
+}
+
+
+@media screen and (max-width: 700px)  {
+    .hide-m {
+        display: none;
+    }
+
+    .bg-m {
+        background-image: url("../image/bg.jpg");
+        color: #fff;
+        background-position: center top;
+        height: 100vh;
+    }
+}
