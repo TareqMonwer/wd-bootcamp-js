@@ -1,0 +1,46 @@
+body {
+    background: #232323;
+    box-sizing: border-box;
+}
+
+body, h3 {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+}
+.header {
+    text-align: center;
+    background: rgb(246,212,29);
+    color: white;
+    padding: 10px 0;
+}
+.menu {
+    background: white;
+}
+
+.clearfix {
+    clear: both;
+}
+.right {
+    float: right;
+    margin-right: 5px;
+}
+.active {
+    background: red;
+}
+.colorboxes {
+    margin-top: 20px;
+}
+.box {
+    width: 30%;
+    height: 150px;
+    background: red;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
